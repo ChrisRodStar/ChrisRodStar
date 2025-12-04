@@ -1,26 +1,22 @@
-# Hi there 👋 I'm Chris
+# Chris
 
-I'm a self-taught web developer who codes for fun and learning. I mostly build things with **Next.js**, but I enjoy exploring all parts of the web stack!
-
----
-
-### 🚀 About Me
-- 🧠 I’m learning web development and building projects to grow my skills
-- 💻 Mostly working with: `Next.js`, `React`, `Tailwind CSS`
-- 🌱 Currently exploring: backend APIs, full-stack projects, and deployment
-- 🛠️ Tools I like: VS Code, Git, GitHub, Vercel
+Self-taught web developer. I like building clean, fast interfaces and figuring things out by breaking them first. Most of what I make ends up in **Next.js**, but I’m always experimenting across the stack.
 
 ---
 
-### 🤝 Let's Connect
-- 💬 I’m open to collaborate on fun, beginner-friendly web projects
-- 📫 Reach me: [@ChrisRodStar](https://twitter.com/ChrisRodStar) (replace with your actual contact if different)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I learned my first HTML tag from view source on a video game site
+## About Me
+- Learning by doing — small projects, random ideas, whatever keeps me improving  
+- Working mainly with **Next.js**, **React**, and **Tailwind**  
+- Currently diving into API design, full-stack workflows, and deployment  
+- Tools I actually use: VS Code, Git/GitHub, Vercel, browser devtools
 
 ---
 
-<!---
-Chris-Rodriguez-Star/Chris-Rodriguez-Star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact
+- Open to collaborating on simple, interesting projects  
+- Twitter/X: **[@ChrisRodStar](https://twitter.com/ChrisRodStar)**  
+- Pronouns: he/him  
+- Fun fact: I learned HTML by viewing the source code of a game site when I was a kid
+
+---
+
