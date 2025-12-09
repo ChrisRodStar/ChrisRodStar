@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 About Me
-- Learning by doing small projects, random ideas — whatever keeps me improving  
+- Learning by doing small projects, random ideas; whatever keeps me improving  
 - Working mainly with **Next.js**, **React**, and **Tailwind**  
 - Currently diving into API design, full-stack workflows, and deployment  
 - Tools I actually use: **kiro**, **Git/GitHub**, **Vercel**
