@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Chris</h1>
 <p align="center">
-  Self-taught developer with AI (yeah, I know — <i>kinda lame, sorry</i>).  
+  Self-taught developer with AI (yeah, I know... <i>kinda lame, sorry</i>).  
   <br/>
   I like building clean, fast tools and websites. Most of what I make ends up in <b>Next.js</b>, but I'm always experimenting across the stack.
 </p>
