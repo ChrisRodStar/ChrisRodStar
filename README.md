@@ -29,14 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChrisRodStar&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisRodStar&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ## 📬 Contact  
 - Open to collaborating on simple, interesting projects  
 - Twitter/X: **[@ChrisRodStar](https://twitter.com/ChrisRodStar)**  
