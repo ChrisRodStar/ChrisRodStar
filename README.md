@@ -18,27 +18,15 @@ I like software that feels simple on the surface. The interesting part for me is
 
 ## What I'm building
 
+### ZipMello
+
+[ZipMello](https://github.com/ChrisRodStar/zipmello) is a Swift 6 ZIP and CBZ library I built while working on a personal Mac manga reader. It focuses on fast archive access, page reads, and reader-focused workflows.
+
 ### BrewPulse
 
 [BrewPulse](https://github.com/ChrisRodStar/BrewPulse) is a native macOS menu bar app for Homebrew. I started it because I forget to check package updates and would rather use a clean Mac interface than work in Terminal for routine maintenance.
 
 The Free client and Homebrew core are open source.
-
-### Four Brothers Outdoors
-
-[Four Brothers Outdoors](https://github.com/ChrisRodStar/Four-Brothers-Outdoors) is a landscaping website I built to work on service-business UX, responsive layouts, and visual direction.
-
-## Tools I keep reaching for
-
-- Next.js and React
-- TypeScript
-- Swift and SwiftUI
-- Tailwind CSS
-- Bun
-- Git and GitHub
-- Vercel
-
-I'm not attached to a stack for its own sake. If a project is better as a native Mac app, I would rather learn Swift than force it into a web wrapper.
 
 ## How I got into this
 
