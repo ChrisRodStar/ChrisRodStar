@@ -4,13 +4,13 @@
 
 I learn software by building things I actually want to use.
 
-[Portfolio](https://chrisrodriguez.dev) · [X](https://twitter.com/ChrisRodStar)
+[X](https://twitter.com/ChrisRodStar)
 
 </div>
 
 ## About me
 
-I'm a self-taught developer. I use AI as part of how I learn and work, but I still care about understanding what the code is doing, making deliberate product decisions, and cleaning up the rough edges before I call something done.
+I'm a self-taught developer. I care about understanding what the code is doing, making deliberate product decisions, and cleaning up the rough edges before I call something done.
 
 Most of my earlier projects were web apps because Next.js gave me a fast way to turn ideas into something real. More recently I've been spending time with native macOS development in Swift and SwiftUI too.
 
@@ -24,13 +24,9 @@ I like software that feels simple on the surface. The interesting part for me is
 
 The Free client and Homebrew core are open source.
 
-### My portfolio
-
-[chrisrodriguez.dev](https://chrisrodriguez.dev) is where I keep my projects, notes, resume, and some of the experiments I don't want buried inside a repo.
-
 ### Four Brothers Outdoors
 
-[Four Brothers Outdoors](https://github.com/ChrisRodStar/Four-Brothers-Outdoors) is a landscaping website I built as a portfolio project. It gave me room to work on service-business UX, responsive layouts, and visual direction.
+[Four Brothers Outdoors](https://github.com/ChrisRodStar/Four-Brothers-Outdoors) is a landscaping website I built to work on service-business UX, responsive layouts, and visual direction.
 
 ## Tools I keep reaching for
 
