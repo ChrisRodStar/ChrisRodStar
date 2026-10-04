@@ -4,7 +4,6 @@
 
 I learn software by building things I actually want to use.
 
-[X](https://twitter.com/ChrisRodStar)
 
 </div>
 
